@@ -8,29 +8,23 @@ header {
     border: rgb(255, 255, 0) solid 10px;
     
 }
- header img {
+.img1 {
+   
     width: 900px;
     height: 300px;}
-    h1 {
-    position: absolute;
-        left: 325px; 
-        bottom: 200px;
+h1 {
+   text-align: center;
     color: rgb(0, 0, 0);
     font-family: sans-serif;
     }
     main {
         background-color: darkgoldenrod;
     }
-aside {
-    position: absolute;
-    height: 1px;
-    width: 1px;
-}
+
     aside img {
         position: fixed;
         width: 300px;
         height: 275px;
-        left: 620px;
+        left: 80%;
     }
 
-    
