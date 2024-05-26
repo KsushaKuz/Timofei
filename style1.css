@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+header {
+  background-color:rgb(255, 200, 0) ; 
+
+}
+main {
+    background-color:rgb(255, 225, 0) ; 
+}
+header h1 {
+    text-align: center;
+}
+main h1 {
+    margin-top: 10px;
+}
+img {
+    margin-left: 25px;
+}
+footer {
+    background-color:rgb(163, 120, 0) ;
+}
